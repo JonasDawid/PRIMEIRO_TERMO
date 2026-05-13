@@ -45,15 +45,27 @@
 
 # exercicio 4  
 # codigo errado
+
 # usuario = "aluno123"
 # if usuario == "aluno123"
 # print("Login realizado com sucesso.")
 
+# código correto 
+# usuario = "aluno123"
+# if usuario == "aluno123":
+#  print(input("Login realizado com sucesso."))
 
+# exercicio 5
+# codigo errado
+# clima = "ensolarado"
+# if clima = "chuvoso":
+# # print("Leve um guarda-chuva!")
 
-
-
-
+# codigo correto 
+clima = "ensolarado"
+if clima == "chuvoso":
+ print("Leve um guarda-chuva!")
+else clima :
 
 
 
