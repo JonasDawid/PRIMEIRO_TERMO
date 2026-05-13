@@ -1,0 +1,68 @@
+
+# exercício 1
+#  código errado 
+
+# idade = input("Digite sua idade: ")
+# if idade >= 18:
+# print("Você é maior de idade.")
+
+# código correto
+
+# idade = float(input("Digite sua idade: "))
+# if idade >= 18:
+#  print("Você é maior de idade.")
+# elif idade <= 18:
+#  print (" Você é menor de idade ")
+
+# exercício 2
+#  código errado
+
+#  nome = "Mariana"
+# print("Seja bem-vinda, nome!")
+
+# codigo correto
+
+# pv1 = ("Mariana")
+# print(" seu nome é:",pv1)
+
+# # exercíco 3
+# # código errado
+# numero = 10
+# if numero > 5:
+# print("O número é maior que cinco.")
+# else:
+# print("O número é menor ou igual a cinco.")
+
+
+# código correto 
+# numero = 10
+# if numero > 5:
+#  print("O número é maior que cinco.")
+# elif numero < 5:
+#  print(" número menor que cinco ")
+# else:
+#  print(" fim ")
+
+# exercicio 4  
+# codigo errado
+# usuario = "aluno123"
+# if usuario == "aluno123"
+# print("Login realizado com sucesso.")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
