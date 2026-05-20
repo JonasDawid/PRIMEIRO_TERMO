@@ -62,14 +62,67 @@
 # # print("Leve um guarda-chuva!")
 
 # codigo correto 
-clima = "ensolarado"
-if clima == "chuvoso":
- print("Leve um guarda-chuva!")
-else clima :
+# clima = "ensolarado"
+# if clima == "chuvoso" :
+#  print ("Leve um guarda-chuva!")
 
+# exercicio 6
+# # cófigo errado
+# pontos = 50
+# print("Parabéns! Você fez " + pontos + " pontos.")
 
+# código certo
+# pontos = 50 
+# print("Parabéns! Você fez " , pontos, " pontos.")
 
+# exercício 7 
+# exercício errado
+# O sistema deve dar "Excelente" para notas 9 ou 10.
+# nota = 9.5
+# if nota >= 7:
+# print("Aprovado")
+# elif nota >= 9:
+# print("Excelente!")
 
+# # exercicio correto
+# nota = 9.5 
+# if nota >= 7:
+#     print("aprovado")
+# elif nota >= 9:
+#     print("Excelente!")
+
+# exercício 8 
+# Objetivo: Mostrar na tela os números 1, 2, 3, 4 e 5.
+# exercício errado 
+# for i in range(5):
+# print(i)
+
+# exercício correto 
+# for i in range(5):
+#  print(i)
+
+# obs: correção apenas coloquei um espaço antes do print 
+
+# exercício 9
+# tentativas = 1
+# while tentativas <= 3:
+# print("Tentando conectar...")
+# O código deveria parar após 3 tentativas
+
+# código correto
+# tentativas = 1
+# while tentativas >= 3:
+#  print("Tentando conectar...")
+
+# exercício 10
+# O programa deve pedir a senha até que o usuário digite "python123"
+# senha = ""
+# input("digite a senha:")
+# while senha == "python123":
+ 
+ 
+#  senha = (input("Digite a senha secreta: "))
+# print("Acesso concedido!")
 
 
 
